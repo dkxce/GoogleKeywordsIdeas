@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GoogleKeywordIdeas", "GoogleKeywordIdeas\GoogleKeywordIdeas.pyproj", "{A2105C04-055F-4EDA-8278-ECAAD3841224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2105C04-055F-4EDA-8278-ECAAD3841224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2105C04-055F-4EDA-8278-ECAAD3841224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D86EE5B-C3F2-4A86-AA44-AA4AE7B13B44}
+	EndGlobalSection
+EndGlobal
